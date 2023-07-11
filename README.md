@@ -44,7 +44,7 @@ yarn ios
 
 ## Notes: Please add your google map API key to see how the map works on android devices
 
-If the time allowed, I would finish the last modal. (https://drive.google.com/file/d/17Sl0Lg-zLkoWbkk94tdvzuXwl0Fh-T-l/view?usp=sharing)
+If the time allowed, I would finish the last modal and the current location button. (https://drive.google.com/file/d/17Sl0Lg-zLkoWbkk94tdvzuXwl0Fh-T-l/view?usp=sharing)
 
 How it works on Ios emulator: https://drive.google.com/file/d/1DSesNpnKDGqy7OAVv5yYlqT2sUZupyqj/view?usp=sharing
 
